@@ -252,34 +252,33 @@ h1, h2, h3, p{
 
 .courses-list-item__img-1{
   height: 180px;
-  background-image: url(imgs/courses-list-item-1.png);
+  background-image: url('../imgs/courses-list-item-1.png');
   background-repeat: no-repeat;
   background-size: cover;
  }
 
  .courses-list-item__img-2{
   height: 180px;
-  background-image: url(imgs/courses-list-item-2.png);
+  background-image: url('../imgs/courses-list-item-2.png');
   background-repeat: no-repeat;
   background-size: cover;
  }
 
  .courses-list-item__img-3{
   height: 180px;
-  background-image: url(imgs/courses-list-item-3.png);
+  background-image: url('../imgs/courses-list-item-3.png');
   background-repeat: no-repeat;
   background-size: cover;
  }
 
 .courses-list-item__img-4{
  height: 180px;
- background-image: url(imgs/courses-list-item-4.png);
+ background-image: url('../imgs/courses-list-item-4.png');
  background-repeat: no-repeat;
  background-size: cover;
 }
 
 .courses-list-item__course-time{
-  /* position: relative; */
   position: absolute;
   top: 10px;
   right: 20px;
@@ -381,8 +380,4 @@ h1, h2, h3, p{
 
 .footer__author-rights{
   margin-top: 3px;
-}
-.footer-author-rights__img{
-  /* margin-left: calc(var(--bs-gutter-x) * -.5);
-  margin-right: calc(var(--bs-gutter-x) * -.5);; */
 }
