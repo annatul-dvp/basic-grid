@@ -252,28 +252,28 @@ h1, h2, h3, p{
 
 .courses-list-item__img-1{
   height: 180px;
-  background-image: url(/imgs/courses-list-item-1.png);
+  background-image: url(imgs/courses-list-item-1.png);
   background-repeat: no-repeat;
   background-size: cover;
  }
 
  .courses-list-item__img-2{
   height: 180px;
-  background-image: url(/imgs/courses-list-item-2.png);
+  background-image: url(imgs/courses-list-item-2.png);
   background-repeat: no-repeat;
   background-size: cover;
  }
 
  .courses-list-item__img-3{
   height: 180px;
-  background-image: url(/imgs/courses-list-item-3.png);
+  background-image: url(imgs/courses-list-item-3.png);
   background-repeat: no-repeat;
   background-size: cover;
  }
 
 .courses-list-item__img-4{
  height: 180px;
- background-image: url(/imgs/courses-list-item-4.png);
+ background-image: url(imgs/courses-list-item-4.png);
  background-repeat: no-repeat;
  background-size: cover;
 }
@@ -329,11 +329,11 @@ h1, h2, h3, p{
 
 .courses-list__item:first-child .courses-list-item-inf__txt{
   padding-top: 9px;
-} 
+}
 
 .courses-list__item:not(:first-child) .courses-list-item-inf__txt{
   padding-top: 8px;
-} 
+}
 
 .courses-list-item-inf__btn{
   position: absolute;
